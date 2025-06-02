@@ -6,6 +6,8 @@ The "Stock the Stock" app is designed to aid in investment decision-making by an
 
 
 Features
+
+
 Date Selection 📅: Allows users to select start and end dates for historical analysis.
 Stock/Index Selection 📊: Permits users to input the stock/index they want to analyze.
 Percentage Change Threshold 📉📈: Allows users to set the percentage for determining market falls and rises.
